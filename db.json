@@ -99,34 +99,6 @@
         }
       ],
       "id": 6
-    },
-    {
-      "image": "https://res.cloudinary.com/eumar-8/image/upload/v1510849383/ojyawdhyleaqtt9lm0hc.jpg",
-      "name": "Lemon curd & blueberry loaf cake",
-      "description": "Heat oven to 160C/140C fan/gas 3. Grease a 2lb loaf tin and line with a long strip of baking parchment. Put 100g yogurt, 2 tbsp lemon curd, the softened butter, eggs, lemon zest, flour and caster sugar into a large mixing bowl. Quickly mix with an electric whisk until the batter just comes together. Scrape half into the prepared tin. Weigh 85g blueberries from the punnet and sprinkle half into the tin, scrape the rest of the batter on top, then scatter the other half of the 85g berries on top. Bake for 1 hr 10 mins-1 hr 15 mins until golden, and a skewer poked into the centre comes out clean.\nCool in the tin, then carefully lift onto a serving plate to ice. Sift the icing sugar into a bowl and stir in enough lemon juice to make a thick, smooth icing. Spread over the top of the cake, then decorate with lemon zest and edible flowers, if you like. Serve in slices with extra lemon curd, Greek yogurt and blueberries.",
-      "ingredients": [
-        {
-          "quantity": "175g ",
-          "ingredient": "softened butter , plus extra for greasing"
-        },
-        {
-          "quantity": "500ml ",
-          "ingredient": "tub Greek yogurt (you need 100ml/3½ fl oz in the cake, the rest to serve)"
-        },
-        {
-          "quantity": "300g ",
-          "ingredient": "jar good lemon curd (you need 2 tbsp in the cake, the rest to serve)"
-        },
-        {
-          "quantity": "3",
-          "ingredient": "eggs"
-        },
-        {
-          "quantity": "zest and juice 1 lemon ",
-          "ingredient": "plus extra zest to serve, if you like"
-        }
-      ],
-      "id": 7
     }
   ]
 }
