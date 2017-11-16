@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #dcb8ad;
+}
+#img-food{
+  width: 220px;
+  height: 220px;
+  border-style: inherit;
+  border-radius: 50%;
+  margin: auto;
+
+}
+#text-drop-zone{
+  text-align: center;
+ margin-top: 81px;
+ display: inline-block;
+    }
+#Dropzone-img{
+  text-align: center;
+  border-style: inset!important;
+  display: inline-block;
+  border-radius: 50%!important;
+
+}
+.tittle-submit{
+  font-family: cursive;
+  font-size: 42px;
+  padding-bottom: 28px;
+
+}
+#nav{
+  text-align: center;
+  background-color: blue!important;
+}
+.btn-info{
+  margin-top: 26px;
+}
+.btn-default{
+  margin-top: 26px;
+  margin-bottom: 30px;
+
+}
+.dropzone-div{
+  text-align: center;
+}
+.btn-sub-div{
+
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  .btn-info{
+    margin-top: 0px;
+  }
+
+}
+input{
+  background-color: #ecd4d4!important;
+}
+
+textarea{
+  background-color: #ecd4d4!important;
+}
+.form-control{
+  color:black;
+
+}
+.caption{
+  background-color: beige;
+}
+.recipe-description{
+  text-align: justify;
+}
+.recipe-tittle{
+  text-align: center;
+  font-family: serif;
+  font-size: 20px;
+}
+.recipe-tittle-complete{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tittle-home{
+  font-family: cursive;
+    font-size: 42px;
+    padding-bottom: 28px;
+    text-align: center;
+}
+
+.glyphicon{
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: #ca4f4f;
+
+}
+#remove{
+  float: right!important;
+}
+.show-text{
+  text-align: center;
+}
+
+.btn-show-more{
+  text-align: center;
+margin-bottom: 20px;
+
+}
